@@ -1,0 +1,114 @@
+
+[Main] - Iniciando programa
+Iniciando thread: [6051]
+Iniciando thread: [6052]
+Iniciando thread: [6053]
+[Main] - Esperando threads...
+Iniciando thread: [6054]
+Iniciando thread: [6055]
+[6052] - Iniciando iteracion: 0
+[6051] - Iniciando iteracion: 0
+[6055] - Iniciando iteracion: 0
+[6052] - Recurso tomado
+[6054] - Iniciando iteracion: 0
+[6053] - Iniciando iteracion: 0
+[6052] - Buenos dias! Recurso usado
+[6052] - Recurso devuelto
+[6052] - Iniciando iteracion: 1
+[6052] - Recurso tomado
+[6052] - Buenos dias! Recurso usado
+[6052] - Recurso devuelto
+[6052] - Iniciando iteracion: 2
+[6052] - Recurso tomado
+[6052] - Buenos dias! Recurso usado
+[6052] - Recurso devuelto
+[6052] - Iniciando iteracion: 3
+[6052] - Recurso tomado
+[6052] - Buenos dias! Recurso usado
+[6052] - Recurso devuelto
+[6052] - Iniciando iteracion: 4
+[6052] - Recurso tomado
+[6052] - Buenos dias! Recurso usado
+[6052] - Recurso devuelto
+[6052] - Thread finalizado!
+[6055] - Recurso tomado
+[6055] - Buenos dias! Recurso usado
+[6055] - Recurso devuelto
+[6055] - Iniciando iteracion: 1
+[6055] - Recurso tomado
+[6055] - Buenos dias! Recurso usado
+[6055] - Recurso devuelto
+[6055] - Iniciando iteracion: 2
+[6055] - Recurso tomado
+[6055] - Buenos dias! Recurso usado
+[6055] - Recurso devuelto
+[6055] - Iniciando iteracion: 3
+[6055] - Recurso tomado
+[6055] - Buenos dias! Recurso usado
+[6055] - Recurso devuelto
+[6055] - Iniciando iteracion: 4
+[6055] - Recurso tomado
+[6055] - Buenos dias! Recurso usado
+[6055] - Recurso devuelto
+[6055] - Thread finalizado!
+[6054] - Recurso tomado
+[6054] - Buenos dias! Recurso usado
+[6054] - Recurso devuelto
+[6054] - Iniciando iteracion: 1
+[6054] - Recurso tomado
+[6054] - Buenos dias! Recurso usado
+[6054] - Recurso devuelto
+[6054] - Iniciando iteracion: 2
+[6054] - Recurso tomado
+[6054] - Buenos dias! Recurso usado
+[6054] - Recurso devuelto
+[6054] - Iniciando iteracion: 3
+[6054] - Recurso tomado
+[6054] - Buenos dias! Recurso usado
+[6054] - Recurso devuelto
+[6054] - Iniciando iteracion: 4
+[6054] - Recurso tomado
+[6054] - Buenos dias! Recurso usado
+[6054] - Recurso devuelto
+[6054] - Thread finalizado!
+[6053] - Recurso tomado
+[6053] - Buenos dias! Recurso usado
+[6053] - Recurso devuelto
+[6053] - Iniciando iteracion: 1
+[6053] - Recurso tomado
+[6053] - Buenos dias! Recurso usado
+[6053] - Recurso devuelto
+[6053] - Iniciando iteracion: 2
+[6053] - Recurso tomado
+[6053] - Buenos dias! Recurso usado
+[6053] - Recurso devuelto
+[6053] - Iniciando iteracion: 3
+[6053] - Recurso tomado
+[6053] - Buenos dias! Recurso usado
+[6053] - Recurso devuelto
+[6053] - Iniciando iteracion: 4
+[6053] - Recurso tomado
+[6053] - Buenos dias! Recurso usado
+[6053] - Recurso devuelto
+[6053] - Thread finalizado!
+[6051] - Recurso tomado
+[6051] - Buenos dias! Recurso usado
+[6051] - Recurso devuelto
+[6051] - Iniciando iteracion: 1
+[6051] - Recurso tomado
+[6051] - Buenos dias! Recurso usado
+[6051] - Recurso devuelto
+[6051] - Iniciando iteracion: 2
+[6051] - Recurso tomado
+[6051] - Buenos dias! Recurso usado
+[6051] - Recurso devuelto
+[6051] - Iniciando iteracion: 3
+[6051] - Recurso tomado
+[6051] - Buenos dias! Recurso usado
+[6051] - Recurso devuelto
+[6051] - Iniciando iteracion: 4
+[6051] - Recurso tomado
+[6051] - Buenos dias! Recurso usado
+[6051] - Recurso devuelto
+[6051] - Thread finalizado!
+[Main] - Programa finalizado

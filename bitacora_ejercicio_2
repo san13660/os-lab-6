@@ -1,0 +1,171 @@
+
+[Main] - Iniciando programa
+[Main] - Recursos disponibles (10)
+[Main] - Esperando threads...
+Iniciando thread: [6504]
+Iniciando thread: [6505]
+Iniciando thread: [6501]
+Iniciando thread: [6503]
+Iniciando thread: [6502]
+[6505] - Iniciando iteracion: 0
+[6505] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (7)
+[6505] - Recursos tomados
+[6504] - Iniciando iteracion: 0
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (4)
+[6504] - Recursos tomados
+[6503] - Iniciando iteracion: 0
+[6503] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Iniciando iteracion: 0
+[6503] - Recursos tomados
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos insuficientes
+[6502] - Iniciando iteracion: 0
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos insuficientes
+[6503] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6503] - Recursos devueltos
+[6503] - Iniciando iteracion: 1
+[6503] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6503] - Recursos tomados
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos insuficientes
+[6502] - Solicitando (3) recursos
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos insuficientes
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6504] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6504] - Recursos devueltos
+[6504] - Iniciando iteracion: 1
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos tomados
+[6505] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6505] - Recursos devueltos
+[6505] - Iniciando iteracion: 1
+[6505] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6505] - Recursos tomados
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos insuficientes
+[6504] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6502] - Solicitando (3) recursos
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos tomados
+[6504] - Recursos devueltos
+[6504] - Iniciando iteracion: 2
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos insuficientes
+[6503] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6503] - Recursos devueltos
+[6503] - Iniciando iteracion: 2
+[6503] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6503] - Recursos tomados
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos insuficientes
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos insuficientes
+[6503] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6503] - Recursos devueltos
+[6503] - Thread finalizado!
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos tomados
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos insuficientes
+[6505] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6505] - Recursos devueltos
+[6505] - Iniciando iteracion: 2
+[6505] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6505] - Recursos tomados
+[6501] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6501] - Recursos devueltos
+[6501] - Iniciando iteracion: 1
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos tomados
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos insuficientes
+[6502] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6502] - Recursos devueltos
+[6502] - Iniciando iteracion: 1
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos tomados
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos insuficientes
+[6505] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6505] - Recursos devueltos
+[6505] - Thread finalizado!
+[6504] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6504] - Recursos tomados
+[6501] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6501] - Recursos devueltos
+[6501] - Iniciando iteracion: 2
+[6501] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6501] - Recursos tomados
+[6502] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6502] - Recursos devueltos
+[6502] - Iniciando iteracion: 2
+[6502] - Solicitando (3) recursos
+[MONITOR] - Recursos reducidos (1)
+[6502] - Recursos tomados
+[6504] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (4)
+[6504] - Recursos devueltos
+[6504] - Thread finalizado!
+[6501] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (7)
+[6501] - Recursos devueltos
+[6501] - Thread finalizado!
+[6502] - Buenos dias! Recurso usado
+[MONITOR] - Recursos incrementados (10)
+[6502] - Recursos devueltos
+[6502] - Thread finalizado!
+[Main] - Programa finalizado
