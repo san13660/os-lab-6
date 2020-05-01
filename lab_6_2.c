@@ -1,5 +1,5 @@
 // Christopher Sandoval 13660
-// Lab 6 - Ejercicio 1
+// Lab 6 - Ejercicio 2
 
 #include <stdio.h>
 #include <pthread.h>
